@@ -1,5 +1,5 @@
 # Similarity_Task_Glove
-For a given input word we find out the most similar word among the four options given using the Glove word vector for each word.
+For a given input word we find out the most similar word among the four options given using the Glove word vector for each word. The glove vectors have been downloaded from http://nlp.stanford.edu/projects/glove/ (we have used the file with 6 billion tokens).
 
 We use the following metrics for comparing the word vectors : 
 
